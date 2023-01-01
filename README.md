@@ -1,2 +1,3 @@
-# curso-web-moderno-cod3r
-Repositório usado no curso da Cod3r de Web Moderno
+Curso Web Moderno - Cod3r com JavaScript 2022 + Projetos
+Link do curso: https://www.udemy.com/course/curso-web/
+
