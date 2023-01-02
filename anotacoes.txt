@@ -1,0 +1,12 @@
+Aula #17
+Um programa de computador é organizado por pastas e arquivos. Dentro desses arquivos teremos as sentenças de códigos e blocos de códigos. A sentenças são como palavras e os blocos como parágrafos se pensarmos que nosso código é um livro.
+Uma sentença de código pode ou não terminar com " ; ".
+Cada sentença de código tem como objetivo ordenar que o computador execute determinado comando. Sendo executado da primeira linha até a última.
+
+Aula #18
+Primeiro comando: console.log(); -- imprime algo na tela que pode ser texto (sendo entre aspas duplas ou não) e números e demais.
+Importância na sequência das sentenças. Quase sempre a ordem de suas sentenças irá impactar no seu código.
+
+Aula #19
+Comentários
+Basicamente se comenta com // ou /* */ sendo que o primeiro é mais adequado em uma linha e o segundo e várias linhas.
