@@ -10,3 +10,21 @@ Importância na sequência das sentenças. Quase sempre a ordem de suas sentenç
 Aula #19
 Comentários
 Basicamente se comenta com // ou /* */ sendo que o primeiro é mais adequado em uma linha e o segundo e várias linhas.
+
+Aula #20
+Um bloco em Javascript é definido por um par de chaves { }. Dentro deles haverá as sentenças.
+Também pode-se criar blocos dentro de outros.
+Ex: 
+
+{
+
+     {
+
+     }
+
+}.
+
+Detalhe que sempre deve-se fechar as chaves corretamente.
+Como o código é organizado:
+Primeiro temos as PASTAS onde os ARQUIVOS serão postos. Dentro dos arquivos teremos seus códigos que podem ser em Javascript, HTML, CSS...
+Respectivamente dentro de seus códigos teremos os BLOCOS e SENTENÇAS assim formando uma cadeia organizada.
